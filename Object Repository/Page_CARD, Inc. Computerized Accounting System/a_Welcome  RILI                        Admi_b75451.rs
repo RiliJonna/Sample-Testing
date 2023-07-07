@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Welcome  RILI                        Admi_b75451</name>
+   <tag></tag>
+   <elementGuidId>5d80a46e-cbfa-4d1c-88d7-7df29875a7a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#WelcomeLabel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='WelcomeLabel']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>69e7af00-8d86-4e9c-9fb1-4a8f0bc91887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle</value>
+      <webElementGuid>69395969-37b0-4932-b027-9e8bfd52d11e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>753cb9b4-02e6-4ce6-b9cd-ba3f4bf0fef8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>12947bb7-b749-44a0-a0d9-c1a0cfacd5a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>WelcomeLabel</value>
+      <webElementGuid>d127c589-78fa-4b2a-bab4-6d2e3608a913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+					Welcome  RILI                        Admin   					               		HEAD OFFICE					               		System Date: 2023-05-10 Status: Open</value>
+      <webElementGuid>210b27b0-cb16-4693-8835-cfa0a40a75b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;WelcomeLabel&quot;)</value>
+      <webElementGuid>a20f3938-9180-4fc3-b6a5-e6f341fd0df6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='WelcomeLabel']</value>
+      <webElementGuid>6fcca969-1725-43e1-a8c0-8ea44caa4246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/nav/ul/li[3]/a</value>
+      <webElementGuid>e92d3b3d-266b-4c1c-8b04-c651d4a59cb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle navigation'])[1]/following::a[2]</value>
+      <webElementGuid>831eace1-ebe2-4fdc-b90d-9084a70833f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Welcome']/parent::*</value>
+      <webElementGuid>0108f79e-3c09-4ef7-99ad-d67a90423dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:void(0)')]</value>
+      <webElementGuid>d30b571a-e61a-466f-aa3e-0f039f841be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>b35b628a-5688-47a9-ab82-572f1a8c66f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and @id = 'WelcomeLabel' and (text() = '
+
+					Welcome  RILI                        Admin   					               		HEAD OFFICE					               		System Date: 2023-05-10 Status: Open' or . = '
+
+					Welcome  RILI                        Admin   					               		HEAD OFFICE					               		System Date: 2023-05-10 Status: Open')]</value>
+      <webElementGuid>418f4bbc-df95-45c2-89f3-d199bc88d568</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

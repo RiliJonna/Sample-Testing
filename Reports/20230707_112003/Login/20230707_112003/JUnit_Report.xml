@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Login" time="12.403" tests="1" failures="0" errors="0">
+   <testsuite name="Login" tests="1" failures="0" errors="0" time="12.403" skipped="0" timestamp="2023-07-07 11:20:06" hostname="j.rili - cmit-jrili.cmit.cardmri.local" id="Test Suites/Login">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\j.rili\\Katalon Studio\\CAS_NGO\\CAS-NGO\\CAS-NGO\\Sample-Testing\\Reports\\20230707_112003\\Login\\20230707_112003"/>
+         <property name="logFiles" value="C:\\Users\\j.rili\\Katalon Studio\\CAS_NGO\\CAS-NGO\\CAS-NGO\\Sample-Testing\\Reports\\20230707_112003\\Login\\20230707_112003\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="j.rili - cmit-jrili.cmit.cardmri.local"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 114.0.0.0"/>
+         <property name="hostAddress" value="10.200.54.66"/>
+         <property name="sessionId" value="ed328ec28d43a6260996ee833d469c7c"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login" time="12.183" classname="Test Cases/Login" status="PASSED">
+         <system-out><![CDATA[2023-07-07 11:20:06 - [TEST_CASE][PASSED] - Test Cases/Login: Test Cases/Login
+
+2023-07-07 11:20:06 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-07 11:20:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-07 11:20:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-07 11:20:09 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-07 11:20:09 - [TEST_STEP][PASSED] - navigateToUrl("https://castest.cardmri.com:8269/NGOFSReport/index.jsp"): Navigate to 'https://castest.cardmri.com:8269/NGOFSReport/index.jsp' successfully
+
+2023-07-07 11:20:09 - [MESSAGE][PASSED] - Navigate to 'https://castest.cardmri.com:8269/NGOFSReport/index.jsp' successfully
+
+2023-07-07 11:20:09 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_userName"), "jcrili"): Text 'jcrili' is set on object 'Object Repository/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_userName'
+
+2023-07-07 11:20:10 - [MESSAGE][PASSED] - Text 'jcrili' is set on object 'Object Repository/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_userName'
+
+2023-07-07 11:20:10 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_passWord"), "MHSUC33hkPnBWRnjFBNCPA=="): Text ****** has been set on object 'Object Repository/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_passWord'
+
+2023-07-07 11:20:10 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_passWord'
+
+2023-07-07 11:20:10 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_passWord"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_passWord'
+
+2023-07-07 11:20:11 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_CARD, Inc. Computerized Accounting System/input_Please Sign In_passWord'
+
+2023-07-07 11:20:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CARD, Inc. Computerized Accounting System/a_Welcome  RILI                        Admi_b75451")): Object: 'Object Repository/Page_CARD, Inc. Computerized Accounting System/a_Welcome  RILI                        Admi_b75451' is clicked on
+
+2023-07-07 11:20:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CARD, Inc. Computerized Accounting System/a_Welcome  RILI                        Admi_b75451' is clicked on
+
+2023-07-07 11:20:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CARD, Inc. Computerized Accounting System/a_Logout")): Object: 'Object Repository/Page_CARD, Inc. Computerized Accounting System/a_Logout' is clicked on
+
+2023-07-07 11:20:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CARD, Inc. Computerized Accounting System/a_Logout' is clicked on
+
+2023-07-07 11:20:17 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-07 11:20:18 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-07-07 11:20:06 - [TEST_SUITE][PASSED] - Login: Test Cases/Login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
